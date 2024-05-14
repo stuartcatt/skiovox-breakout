@@ -1,5 +1,5 @@
 {
-    "$schema": "http://json.schemastore.org/chrome-manifest",    
+
     "manifest_version": 3,
     "name": "Skiovox Breakout",
     "description": "BETA DO NOT SHARE",
